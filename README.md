@@ -56,7 +56,7 @@ flutter run
 
 ## **Screenshots**
 ![WhatsApp Image 2025-04-23 at 04 10 45_147d3832](https://github.com/user-attachments/assets/4b59803f-0eea-4ee6-842e-876e0dfbb716)
-![WhatsApp Image 2025-04-23 at 04 10 45_2cc39bcb](https://github.com/user-attachments/assets/0452eb9a-f3a0-4309-a68e-5e0267d18f26)
+
 
 
 
